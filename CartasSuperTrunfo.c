@@ -19,7 +19,7 @@ int main()
     // variaveis da carta 2
     char Estado2 = "B";
     char Codigodacarta2[4] = "B02";
-    char Nomedacidade2[10] = "RiodeJaneiro";
+    char Nomedacidade2[20] = "RiodeJaneiro";
     int População2 = 6748000;
     float Area2 = 1200.25;
     float PIB2 = 300.50;
