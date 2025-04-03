@@ -22,18 +22,18 @@ int main() {
     int População2 =  6748000;
     float Area2 = 1200.25 ;
     float PIB2 = 300.50;
-    int numeropt2 = 30;
+    int Numeropt2 = 30;
     
-    <h1> Carta 1 </h>
+   
 printf ( "Estado :%s \n", Estado1);
 printf ( "Código da carta : %s\n", Codigodacarta1);
 printf ("Nome da Cidade : %s\n", Nomedacidade1);
 printf ("População : %d\n", População1);
 printf ("Área : %f \n", Area1);
 printf ("PIB : %f\n", PIB1);
-printf ("Número de Pontos turísticos : %d\n", Numeropt1);
+printf ("Número de Pontos turísticos : %d\n", Numeropt2);
 
-     <h1> Carta 2 </h>
+
 printf ( "Estado :%s \n", Estado2);
 printf ( "Código da carta : %s\n", Codigodacarta2);
 printf ("Nome da Cidade : %s\n", Nomedacidade2);
