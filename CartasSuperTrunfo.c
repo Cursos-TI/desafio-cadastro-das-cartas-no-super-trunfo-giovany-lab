@@ -7,6 +7,43 @@
 //Teste larissa
 
 int main() {
+    //variaveis da carta 1 
+     char Estado1 = "A";
+    char Codigodacarta1[4] = "A01" ;
+    char Nomedacidade1[10] = "Sãopaulo" ;
+    int População1 = 12325000;
+    float Area1 = 1521.11;
+    float PIB1 = 699.28 ;
+    int Numeropt1 = 50;    
+//variaveis da carta 2
+    char Estado2 = "B";
+    char Codigodacarta2[4] = "B02";
+    char Nomedacidade2[10] = "RiodeJaneiro";
+    int População2 =  6748000;
+    float Area2 = 1200.25 ;
+    float PIB2 = 300.50;
+    int numeropt2 = 30;
+    
+    <h1> Carta 1 </h>
+printf ( "Estado :%s \n", Estado1);
+printf ( "Código da carta : %s\n", Codigodacarta1);
+printf ("Nome da Cidade : %s\n", Nomedacidade1);
+printf ("População : %d\n", População1);
+printf ("Área : %f \n", Area1);
+printf ("PIB : %f\n", PIB1);
+printf ("Número de Pontos turísticos : %d\n", Numeropt1);
+
+     <h1> Carta 2 </h>
+printf ( "Estado :%s \n", Estado2);
+printf ( "Código da carta : %s\n", Codigodacarta2);
+printf ("Nome da Cidade : %s\n", Nomedacidade2);
+printf ("População : %d\n", População2);
+printf ("Área : %f \n", Area2);
+printf ("PIB : %f\n", PIB2);
+printf ("Número de Pontos turísticos : %d\n", Numeropt2);
+
+
+    
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
